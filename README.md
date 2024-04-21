@@ -11,7 +11,7 @@ sklearn
 
 
 # EDA
-eda.ipynb file contains all the eda and finally it will save a .csv file which will contain sales of each month
+eda.ipynb file contains all the eda and finally it will save a `month_pred.csv` file which will contain sales of each month
 
 # Train ML model
 train_model.ipynb file contains training code
